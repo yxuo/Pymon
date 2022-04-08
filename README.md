@@ -45,9 +45,6 @@ pip install pyserial
 pip install readkeys
 ```
 
-This script is tested on **Linux** and on **Windows** .
-In general it works.
-
 ## Install
 
 Clone the repo to your local machine:
