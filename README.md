@@ -28,8 +28,6 @@ Specially designed for command-line :heart:.
 
 * List all available ports (`pymon -l` or `pymon --list`)
 
-How to us
-
 ## Requirements `v0.7`
 
 * Python 3
