@@ -28,13 +28,7 @@ Specially designed for command-line :heart:.
 
 * List all available ports (`pymon -l` or `pymon --list`)
 
-## Install
-
-Clone the repo to your local machine:
-
-```bash
-git clone https://github.com/yxuo/Pymon.git
-```
+How to us
 
 ## Requirements `v0.7`
 
@@ -42,17 +36,25 @@ git clone https://github.com/yxuo/Pymon.git
   
   * pyserial
   
-  * 
+  * getch
+
+Via Pip:
 
 ```bash
 pip install pyserial
-pip install pyserial
+pip install readkeys
 ```
-
-Available in [requirements.txt](requirements.txt)
 
 This script is tested on **Linux** and on **Windows** .
 In general it works.
+
+## Install
+
+Clone the repo to your local machine:
+
+```bash
+git clone https://github.com/yxuo/Pymon.git
+```
 
 ## Launch
 
@@ -69,4 +71,4 @@ Or using the whole file path:
  python -u "c:\Users\...\PyMon\pymon.py"
 ```
 
-> Always use `python` with the flag `-u`, otherwise PyMon will not
+> Always use `python` with the flag `-u`, otherwise PyMon will not render properly.
