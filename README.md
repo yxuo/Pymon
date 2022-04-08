@@ -69,4 +69,4 @@ Or using the whole file path:
  python -u "c:\Users\...\PyMon\pymon.py"
 ```
 
-> Always use `python` with the flag `-u`, otherwise PyMon will not
+> Always use `python` with the flag `-u`, otherwise PyMon will not render properly.
